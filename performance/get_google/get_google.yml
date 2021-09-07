@@ -4,6 +4,3 @@ execution:
     ramp-up: 2s
     scenario:
       script: get_google.jmx
-reporting:
-  - module: final-stats
-    dump-xml: stats.xml
